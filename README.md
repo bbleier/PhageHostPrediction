@@ -15,6 +15,9 @@ This project explores the use of machine learning models to predict phage-bacter
 
 ## Repository Structure
 
+### Report
+- `phage_bacteria_prediction_paper.pdf`: A finalized pdf version of the project report.
+  
 ### Python Scripts
 
 - `datasets.py`: Handles data loading and preparation.
