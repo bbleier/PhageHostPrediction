@@ -146,7 +146,7 @@ If a phage is predicted to interact with a bacterium not on this list, the outpu
 ### Additional Directories
 - `figures/`: Contains figures and visualizations used in the README or project documentation.
 - `jupyter_notebooks/`: Includes Jupyter notebooks used for exploratory data analysis (EDA) and model training.
-- `python_files/`: Contains Python scripts used during model development and training.
+- `training_only/`: Contains Python scripts used during model development and training.
 - `sample_data/`: Provides example input data for testing the pipeline.
 - `report/`: Contains the final project report in PDF format.
 
