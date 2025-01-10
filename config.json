@@ -1,0 +1,1 @@
+{"model_type": "fusion_model", "model_params": {"num_main_classes": 10, "hidden_layer_sizes": [512, 256, 128, 64], "dropout": 0.3, "protein_model_name": "facebook/esm2_t33_650M_UR50D"}}
